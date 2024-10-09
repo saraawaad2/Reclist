@@ -13,6 +13,28 @@
         android:theme="@style/Theme.ChessWithRecView"
         tools:targetApi="31">
         <activity
+            android:name=".Gem"
+            android:exported="false" />
+        <activity
+            android:name=".Yaqot"
+            android:exported="false" />
+        <activity
+            android:name=".Zafer"
+            android:exported="false" />
+        <activity
+            android:name=".Zomorod"
+            android:exported="false" />
+        <activity
+            android:name=".Tobaz"
+            android:exported="false" />
+        <activity
+            android:name=".Daimond"
+            android:exported="false" />
+        <activity
+            android:name=".d"
+            android:exported="false"
+            android:theme="@style/Theme.ChessWithRecView" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

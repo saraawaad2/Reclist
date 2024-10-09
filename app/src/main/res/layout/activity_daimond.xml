@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/daimond"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Daimond">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="322dp"
+        android:layout_height="272dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/d"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="59dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="382dp"
+        android:text="الألماس متآصل للكربون ذو تركيب بلوري تكعيبي ويتخذ أشكال مضاعفة لذلك البناء التكعيبي ذو الثمانية أوجه وبخاصة الإثني عشر وجه، وتحدث طفرات في تكوينه أحيانًا فيبدو كروي الشكل إلا أن العوامل الخارجية تساعد على ذلك التشكيل. يتكون من عنصر الكربون (فقط) تحت الضغط والحرارة العاليتين وبظروف غير معلومة في أعماق الكرة الأرضية، وبالرغم من أن الكربون هو المكون الأساسي ل الغرافيت والفحم إلا أن خصائص كل منهما تختلف عن الأخر بشكل كبير، هذا الاختلاف غير ناجم عن التركيب الذري وإنما بسبب الشبكة البلورية، حيث يؤدي الاختلاف في تركيب الشبكة إلى هذا الفرق الشاسع في الخصائص"
+        android:textSize="20sp"
+        android:gravity="center"
+        />
+</LinearLayout>

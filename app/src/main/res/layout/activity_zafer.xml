@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/zafer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/zz" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:text="الياقوت الأزرق أو الزّفِير من اصناف الأحجار الكريمة، وهو صنف من أحد أصناف معدن السامور، ويحتوي على أوكسيد الألومنيوم (α-Al2O3) ومقادير ضئيلة من عناصر مثل الحديد، التيتانيوم، الكروم، الفاناديوم, والمغنيسيوم. لون الياقوت أزرق في العادة، لكن يمكن أن يوجد الياقوت بالطبيعة باللون الأصفر، البنفسجي، البرتقالي، والأخضر. عندما يكون لون حجر السامور أحمر فإنه يدعى بياقوت. السامور قد يوجد بلون وردي أيضا ويطلق عليه بالياقوت أو الياقوت الأرزق إعتمادا على المنطقة." />
+</LinearLayout>

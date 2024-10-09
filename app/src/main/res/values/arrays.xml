@@ -2,12 +2,12 @@
 <resources>
 
     <string-array name="stones">
-        <item>Chess Piece - King</item>
-        <item>Chess Piece - Queen</item>
-        <item>Chess Piece - Bishop</item>
-        <item>Chess Piece - Knight</item>
-        <item>Chess Piece - Rook</item>
-        <item>Chess Piece - Pawn</item>
+        <item>حجر كريم -الماس</item>
+        <item>حجر كريم-ياقوت</item>
+        <item>حجر كريم-توباز</item>
+        <item>حجر كريم-زفير</item>
+        <item>حجر كريم-زمرد</item>
+        <item>حجر كريم-زبرجد</item>
     </string-array>
 
     <string-array name="details">

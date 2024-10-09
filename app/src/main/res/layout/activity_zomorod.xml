@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/zomorod"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/z" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:text="الزُّمُـرُّد حجر كريم ومعدن بيريلي والمكون من سيليكات البيريليوم والألومنيوم
+ يتم العثور عليه في مناجم بين الصخور الصلدة والرخام بخلاف معظم الأحجار الكريمة، لونه أخضر غامق عميق وشفاف، ويحتل المرتبة الثالثة من حيث الأهمية. يكتسب لونه الأخضر لوجود كميات ضئيلة من الكروم أو الحديد، يعتبر الزمرد من الأحجار الكريمة، وبالمقارنة بالأوزان يعتبر الأعلى قيمة بين الأحجار الكريمة، خاصة عندما يتخلله عروق من أملاح معدنية أخرى، ولأملاح البريل قساوة بين 7.5 و8 على مقياس موس لقساوة المواد. تحتوي معظم بلورات الزُّمرُّد على قشور دقيقة يطلق عليها أحيانا اسم سُتُر. كما تحتوي على جسيمات دخيلة متعدّدة. إن أحجار الزُّمُرُّد الكاملة لنادرة جدا، وإذا وُجدت تكون أغلى من الماس. والزُّمُرُّد الأزرق أغلى من الزُّمُرَّد ذي اللون الأصفر." />
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/gem"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/g" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:text="لزَّبَرْجَد نوع من أنواع الأحجار الكريمة من أنواع معدن الأوليفين. تركيبته الكيميائية من سيليكات المغنسيوم والحديد المزدوجة Mg, Fe)2SiO4) ووجود الحديد بتركيبته يضفي عليه اللون الأخضر. تكونه المعدني قريب من تركيب حجر الزمرد، يعثر عليه في الصخور النارية القاعدية وفي الصخور الجيرية، وقد سميت جميع الأحجار الكريمة سابقاً ذات اللون المائل للأخضر بالزبرجد، وقد أخطأ علماء اللغة القدماء إذ أطلقوا تسمية واحدة على حجري الزمرد والزبرجد، ووحدهم أهل الفن القدماء الذين فرقوا بين هذين الحجرين. يعرف الزبرجد في عالم المجوهرات بلونه الزيتوني الشفاف وصلابته المرتفعة والتي تصل إلى 6.5 درجة على مقياس موس وللمقارنة فإن صلابة صخر الجرانيت تبلغ 5 درجات وتعد مناجم الزبرجد ذي اللون الزيتوني نادرة التواجد في العالم." />
+</LinearLayout>
